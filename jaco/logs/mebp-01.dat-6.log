@@ -1,0 +1,114 @@
+New best solution in iteration 0: 5.599113256792634E8
+New best solution in iteration 1: 3.9987758158093464E8
+New best solution in iteration 3: 3.535828722088658E8
+New best solution in iteration 16: 2.4391835937080434E8
+AVG (iterations 0 to 20): 6.4677107525124E8
+AVG (iterations 20 to 40): 8.531641227670282E8
+New best solution in iteration 44: 2.2214464418533057E8
+AVG (iterations 40 to 60): 6.95040555847823E8
+AVG (iterations 60 to 80): 5.551381823136877E8
+AVG (iterations 80 to 100): 8.598583054775441E8
+AVG (iterations 100 to 120): 6.636255625211232E8
+AVG (iterations 120 to 140): 6.616225857955745E8
+New best solution in iteration 145: 2.0864495841581225E8
+New best solution in iteration 152: 2.0591463951651752E8
+New best solution in iteration 154: 1.6073840365460244E8
+AVG (iterations 140 to 160): 3.902932600513428E8
+New best solution in iteration 164: 1.4961100621863163E8
+New best solution in iteration 171: 1.472440040683087E8
+New best solution in iteration 176: 1.462273951484228E8
+AVG (iterations 160 to 180): 1.7917155255955973E8
+New best solution in iteration 181: 1.4453055943599826E8
+New best solution in iteration 184: 1.3579788925973266E8
+AVG (iterations 180 to 200): 1.691085969081995E8
+New best solution in iteration 204: 1.3449139874887642E8
+AVG (iterations 200 to 220): 1.561340003205088E8
+New best solution in iteration 223: 1.3412013597853535E8
+AVG (iterations 220 to 240): 1.740541196848206E8
+AVG (iterations 240 to 260): 1.5677252848953074E8
+AVG (iterations 260 to 280): 1.5790445975283027E8
+AVG (iterations 280 to 300): 1.5493876102302256E8
+AVG (iterations 300 to 320): 1.5130352020175904E8
+AVG (iterations 320 to 340): 1.4880523382032073E8
+AVG (iterations 340 to 360): 1.4901609727116436E8
+AVG (iterations 360 to 380): 1.4556720451558143E8
+AVG (iterations 380 to 400): 1.4513566474249905E8
+AVG (iterations 400 to 420): 1.501422524199763E8
+AVG (iterations 420 to 440): 1.5080198509676212E8
+AVG (iterations 440 to 460): 1.4820810221231574E8
+AVG (iterations 460 to 480): 1.4636942984712192E8
+AVG (iterations 480 to 500): 1.4940840818331015E8
+AVG (iterations 500 to 520): 1.426041850242688E8
+AVG (iterations 520 to 540): 1.4375867262512553E8
+AVG (iterations 540 to 560): 1.466651174331213E8
+AVG (iterations 560 to 580): 1.4498013260961816E8
+AVG (iterations 580 to 600): 1.439612985925975E8
+AVG (iterations 600 to 620): 1.4228531445244452E8
+AVG (iterations 620 to 640): 1.4656936176257098E8
+AVG (iterations 640 to 660): 1.4638451568918803E8
+AVG (iterations 660 to 680): 1.445642236113339E8
+AVG (iterations 680 to 700): 1.423525570180257E8
+AVG (iterations 700 to 720): 1.4633857791228333E8
+AVG (iterations 720 to 740): 1.4653531571774843E8
+AVG (iterations 740 to 760): 1.4790679382652217E8
+AVG (iterations 760 to 780): 1.4637053175356042E8
+AVG (iterations 780 to 800): 1.4525663917961568E8
+AVG (iterations 800 to 820): 1.4634429028460413E8
+AVG (iterations 820 to 840): 1.474161212609474E8
+AVG (iterations 840 to 860): 1.4545272226556462E8
+AVG (iterations 860 to 880): 1.4409721342011812E8
+AVG (iterations 880 to 900): 1.4486441032300645E8
+AVG (iterations 900 to 920): 1.4511338759598547E8
+AVG (iterations 920 to 940): 1.4460922132493827E8
+AVG (iterations 940 to 960): 1.436413737578345E8
+AVG (iterations 960 to 980): 1.4646906984707627E8
+Solution from ACO:
+0 (175.6497) --> [15, 1]
+1 (357.9623) --> [7, 14]
+2 --> []
+3 (203.1160) --> [11]
+4 (205.1274) --> [18, 6]
+5 (33.8309) --> [17]
+6 (215.6800) --> [19, 5]
+7 (287.8773) --> [2]
+8 --> []
+9 (88.2022) --> [12]
+10 (166.9317) --> [9]
+11 (158.1732) --> [13]
+12 (126.3377) --> [4]
+13 (235.2859) --> [10]
+14 --> []
+15 (178.9016) --> [3]
+16 (80.4861) --> [8]
+17 --> []
+18 --> []
+19 (109.3714) --> [16]
+
+Solution energy from ACO: 1.3412013597853535E8
+trying to improve with local search...
+final Solution:
+0 (175.6497) --> [15, 1]
+1 (357.9623) --> [7, 14]
+2 --> []
+3 (203.1160) --> [11]
+4 (205.1274) --> [18, 6]
+5 (33.8309) --> [17]
+6 (215.6800) --> [19, 5]
+7 (287.8773) --> [2]
+8 --> []
+9 (88.2022) --> [12]
+10 (166.9317) --> [9]
+11 (158.1732) --> [13]
+12 (126.3377) --> [4]
+13 (235.2859) --> [10]
+14 --> []
+15 (178.9016) --> [3]
+16 (80.4861) --> [8]
+17 --> []
+18 --> []
+19 (109.3714) --> [16]
+
+final Solution energy: 1.3412013597853535E8
+Calculated in 898ms
+Ants=1000, alpha=0.6, beta=3.0, evaporate factor=0.07
+(for ../../mebp/mebp-01.dat)

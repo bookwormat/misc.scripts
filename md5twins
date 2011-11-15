@@ -1,0 +1,37 @@
+#!/usr/bin/env python
+#
+#name: md5twins
+# Copyright (C) 2008  Benjamin Ferrari
+# 
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+# 
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+# 
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+# Examples: 
+# reads a list of files and prints content-duplicates 
+# (using md5 digest)
+# find /path/to/files | md5twins 
+#
+# this can be used to delete duplicate files:
+# find /path/to/files | md5twins | xargs rm
+
+import sys, hashlib, os
+
+seen = []
+for line in sys.stdin:
+  filename = line.strip()
+  if os.path.isdir(filename): continue
+  try:
+    digest = hashlib.md5(open(filename,'rb').read()).digest()
+    if digest in seen: print(filename)              
+    else: seen.append(digest)
+  except IOError: pass      

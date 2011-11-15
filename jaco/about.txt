@@ -1,0 +1,11 @@
+This is an implementation of an Ant Colony Optimization Algrorithm (AS) that solves the Minimum Energy Broadcast Problem (MEBP).
+It was written as an exam for "heuristische optimierungsverfahren" at the technical university of vienna.
+
+The Project can be build with maven2, using the command 
+
+mvn clean install
+
+This will result in a executable jar file which takes a file containing an MEBP problem and then logs out steps to solve it. You can find examples of MEBP problem files in the MEBP folder.
+
+Michael Groh, http://mgroh.net
+Benjamin Ferrari, http://bookworm.at

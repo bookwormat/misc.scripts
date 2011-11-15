@@ -1,0 +1,9 @@
+#!/bin/sh 
+#xreminder makes me not forget about the boiling water in the kitchen.
+#it opens a popup after n minutes. Could not live without it
+#anymore, since I regulary forget about the time when I'm sitting in
+#front of my computer.  
+started=`date +'%H:%M:%S'`
+if [ "$1" ] ; then seconds=$(($1\*60)) ; else seconds=$((10\*60)) ; fi
+if [ "$2" ] ; then message=$2 ; else message="Don't you have something to do?" ; fi
+sleep $seconds && xmessage [`date +'%H:%M:%S'`] $message \(You asked for this reminder at $started.\)

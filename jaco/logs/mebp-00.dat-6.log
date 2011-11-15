@@ -1,0 +1,77 @@
+New best solution in iteration 0: 1238302.2482449603
+New best solution in iteration 2: 599392.7781965471
+New best solution in iteration 5: 217746.71598977075
+New best solution in iteration 9: 160885.81363752516
+AVG (iterations 0 to 20): 683902.3823980091
+AVG (iterations 20 to 40): 750787.4901792966
+AVG (iterations 40 to 60): 637215.1725162163
+AVG (iterations 60 to 80): 385216.63419958117
+AVG (iterations 80 to 100): 399666.0223488996
+AVG (iterations 100 to 120): 270338.8584363352
+AVG (iterations 120 to 140): 232766.70263441783
+AVG (iterations 140 to 160): 199114.2588986586
+AVG (iterations 160 to 180): 183181.40777555472
+AVG (iterations 180 to 200): 192832.2883144084
+AVG (iterations 200 to 220): 186590.88018839475
+AVG (iterations 220 to 240): 184508.6376121643
+AVG (iterations 240 to 260): 188013.2773939393
+AVG (iterations 260 to 280): 189558.0458875991
+AVG (iterations 280 to 300): 181401.36911850452
+AVG (iterations 300 to 320): 172248.3136375252
+AVG (iterations 320 to 340): 189498.17459948384
+AVG (iterations 340 to 360): 180591.47191296
+AVG (iterations 360 to 380): 175160.8136375252
+AVG (iterations 380 to 400): 172523.3136375252
+AVG (iterations 400 to 420): 172754.5636375252
+AVG (iterations 420 to 440): 172923.3136375252
+AVG (iterations 440 to 460): 173135.8136375252
+AVG (iterations 460 to 480): 174148.3136375252
+AVG (iterations 480 to 500): 173473.3136375252
+AVG (iterations 500 to 520): 171192.0636375252
+AVG (iterations 520 to 540): 173429.5636375252
+AVG (iterations 540 to 560): 173092.0636375252
+AVG (iterations 560 to 580): 174485.8136375252
+AVG (iterations 580 to 600): 172817.0636375252
+AVG (iterations 600 to 620): 173092.0636375252
+AVG (iterations 620 to 640): 172373.3136375252
+AVG (iterations 640 to 660): 173323.3136375252
+AVG (iterations 660 to 680): 172860.8136375252
+AVG (iterations 680 to 700): 171804.5636375252
+AVG (iterations 700 to 720): 173323.3136375252
+AVG (iterations 720 to 740): 171254.5636375252
+AVG (iterations 740 to 760): 172692.0636375252
+AVG (iterations 760 to 780): 171360.8136375252
+AVG (iterations 780 to 800): 173473.3136375252
+AVG (iterations 800 to 820): 173642.0636375252
+AVG (iterations 820 to 840): 172923.3136375252
+AVG (iterations 840 to 860): 173535.8136375252
+AVG (iterations 860 to 880): 173535.8136375252
+AVG (iterations 880 to 900): 173535.8136375252
+AVG (iterations 900 to 920): 173767.0636375252
+AVG (iterations 920 to 940): 172817.0636375252
+AVG (iterations 940 to 960): 174317.0636375252
+AVG (iterations 960 to 980): 172035.8136375252
+Solution from ACO:
+0 (46.0977) --> [3, 1, 4]
+1 (15.0000) --> [2]
+2 --> []
+3 --> []
+4 (39.0512) --> [6, 5]
+5 --> []
+6 --> []
+
+Solution energy from ACO: 160885.81363752516
+trying to improve with local search...
+final Solution:
+0 (46.0977) --> [3, 1, 4]
+1 (15.0000) --> [2]
+2 --> []
+3 --> []
+4 (39.0512) --> [6, 5]
+5 --> []
+6 --> []
+
+final Solution energy: 160885.81363752516
+Calculated in 813ms
+Ants=1000, alpha=0.6, beta=3.0, evaporate factor=0.07
+(for ../../mebp/mebp-00.dat)

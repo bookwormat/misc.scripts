@@ -1,0 +1,109 @@
+New best solution in iteration 0: 6.718928890008957E8
+New best solution in iteration 4: 6.554752144119403E8
+New best solution in iteration 6: 3.864322444702394E8
+New best solution in iteration 16: 3.200862374241636E8
+New best solution in iteration 17: 2.944098944076306E8
+AVG (iterations 0 to 20): 7.77093923049046E8
+New best solution in iteration 29: 2.0287123341496673E8
+AVG (iterations 20 to 40): 6.95712342169988E8
+AVG (iterations 40 to 60): 9.782948661390858E8
+AVG (iterations 60 to 80): 7.867452907420301E8
+AVG (iterations 80 to 100): 7.192557037169373E8
+AVG (iterations 100 to 120): 7.850382611289642E8
+AVG (iterations 120 to 140): 5.789575693808146E8
+New best solution in iteration 157: 1.4478628753031474E8
+AVG (iterations 140 to 160): 4.4140292711054695E8
+AVG (iterations 160 to 180): 2.0030078154141575E8
+New best solution in iteration 200: 1.442760717147549E8
+AVG (iterations 180 to 200): 1.6679401840299457E8
+New best solution in iteration 211: 1.3879924879731995E8
+New best solution in iteration 217: 1.3759935419813722E8
+AVG (iterations 200 to 220): 1.8616855037476054E8
+AVG (iterations 220 to 240): 1.483445771443953E8
+AVG (iterations 240 to 260): 1.601503339207937E8
+AVG (iterations 260 to 280): 1.4828262260427278E8
+AVG (iterations 280 to 300): 1.5365488825691763E8
+AVG (iterations 300 to 320): 1.490254974679547E8
+AVG (iterations 320 to 340): 1.4171715188950405E8
+AVG (iterations 340 to 360): 1.4663179559478086E8
+AVG (iterations 360 to 380): 1.465999966209368E8
+AVG (iterations 380 to 400): 1.4805179509078854E8
+AVG (iterations 400 to 420): 1.45530046699387E8
+AVG (iterations 420 to 440): 1.4440239334409148E8
+AVG (iterations 440 to 460): 1.4755290373495203E8
+AVG (iterations 460 to 480): 1.4662758229209748E8
+AVG (iterations 480 to 500): 1.439692963015805E8
+AVG (iterations 500 to 520): 1.4372318039471847E8
+AVG (iterations 520 to 540): 1.4220916820398688E8
+AVG (iterations 540 to 560): 1.43704158946773E8
+AVG (iterations 560 to 580): 1.436026678632583E8
+AVG (iterations 580 to 600): 1.4529615773305255E8
+AVG (iterations 600 to 620): 1.4582216421586993E8
+AVG (iterations 620 to 640): 1.435883936711252E8
+AVG (iterations 640 to 660): 1.434430695335472E8
+AVG (iterations 660 to 680): 1.427888537490993E8
+AVG (iterations 680 to 700): 1.4130254700809464E8
+AVG (iterations 700 to 720): 1.4634751245580456E8
+AVG (iterations 720 to 740): 1.4186689883981186E8
+AVG (iterations 740 to 760): 1.4097396357742876E8
+AVG (iterations 760 to 780): 1.436109932215007E8
+AVG (iterations 780 to 800): 1.44912033502463E8
+AVG (iterations 800 to 820): 1.420899598476943E8
+AVG (iterations 820 to 840): 1.4364750443795294E8
+AVG (iterations 840 to 860): 1.4253973031521893E8
+AVG (iterations 860 to 880): 1.4491232059142524E8
+AVG (iterations 880 to 900): 1.4218299962844265E8
+AVG (iterations 900 to 920): 1.455265242192843E8
+AVG (iterations 920 to 940): 1.450553732983392E8
+AVG (iterations 940 to 960): 1.4556452982118884E8
+AVG (iterations 960 to 980): 1.4364526077470824E8
+Solution from ACO:
+0 (175.6497) --> [15, 1]
+1 (357.9623) --> [7, 14]
+2 --> []
+3 (203.1160) --> [11]
+4 (205.1274) --> [18, 6]
+5 (222.9198) --> [17, 19]
+6 (135.2360) --> [5]
+7 (287.8773) --> [2]
+8 --> []
+9 (88.2022) --> [12]
+10 (166.9317) --> [9]
+11 (158.1732) --> [13]
+12 (126.3377) --> [4]
+13 (235.2859) --> [10]
+14 --> []
+15 (178.9016) --> [3]
+16 (80.4861) --> [8]
+17 --> []
+18 --> []
+19 (109.3714) --> [16]
+
+Solution energy from ACO: 1.3759935419813722E8
+trying to improve with local search...
+final Solution:
+0 (175.6497) --> [15, 1]
+1 (357.9623) --> [7, 14]
+2 --> []
+3 (203.1160) --> [11]
+4 (248.9206) --> [18, 19]
+5 (135.2360) --> [17, 6]
+6 (135.2360) --> [5]
+7 (287.8773) --> [2]
+8 --> []
+9 (88.2022) --> [12]
+10 (166.9317) --> [9]
+11 (158.1732) --> [13]
+12 (126.3377) --> [4]
+13 (235.2859) --> [10]
+14 --> []
+15 (178.9016) --> [3]
+16 (80.4861) --> [8]
+17 --> []
+18 --> []
+19 (109.3714) --> [16]
+
+final Solution energy: 1.3578732570123416E8
+Calculated in 819ms
+Ants=1000, alpha=0.6, beta=3.0, evaporate factor=0.07
+(for ../../mebp/mebp-01.dat)

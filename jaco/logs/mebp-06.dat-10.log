@@ -1,0 +1,185 @@
+New best solution in iteration 0: 2.076584719409166E9
+New best solution in iteration 1: 1.744994417245493E9
+New best solution in iteration 2: 1.1169715826252112E9
+New best solution in iteration 3: 1.037068483571569E9
+New best solution in iteration 4: 7.05197211950686E8
+New best solution in iteration 12: 5.842360298909278E8
+New best solution in iteration 16: 4.890565673309982E8
+AVG (iterations 0 to 20): 1.1438116478636687E9
+New best solution in iteration 25: 3.781976458126751E8
+AVG (iterations 20 to 40): 1.2322380592498987E9
+AVG (iterations 40 to 60): 1.0474017311280272E9
+AVG (iterations 60 to 80): 1.1653376347493272E9
+New best solution in iteration 91: 2.58324438994797E8
+AVG (iterations 80 to 100): 9.627714828564389E8
+AVG (iterations 100 to 120): 1.1289993087852397E9
+AVG (iterations 120 to 140): 1.1538321660119565E9
+New best solution in iteration 155: 2.3847635198914793E8
+New best solution in iteration 158: 1.870464688196179E8
+AVG (iterations 140 to 160): 6.25656946197913E8
+New best solution in iteration 163: 1.1379031917592698E8
+New best solution in iteration 164: 1.110612379382228E8
+New best solution in iteration 171: 1.0315263167816971E8
+New best solution in iteration 172: 9.168005449848202E7
+New best solution in iteration 176: 8.661847437491918E7
+New best solution in iteration 179: 7.962338932489307E7
+AVG (iterations 160 to 180): 2.642808845186643E8
+New best solution in iteration 192: 7.859110894377846E7
+AVG (iterations 180 to 200): 1.1537113904212256E8
+AVG (iterations 200 to 220): 9.289876165209061E7
+New best solution in iteration 237: 7.822576720441443E7
+AVG (iterations 220 to 240): 8.782929659518094E7
+AVG (iterations 240 to 260): 9.058742991873117E7
+New best solution in iteration 262: 7.794985651711544E7
+AVG (iterations 260 to 280): 8.671254710998598E7
+AVG (iterations 280 to 300): 8.792051656561552E7
+AVG (iterations 300 to 320): 9.16893552237219E7
+New best solution in iteration 336: 7.70472391225835E7
+AVG (iterations 320 to 340): 8.9674515331774E7
+AVG (iterations 340 to 360): 8.84508594339568E7
+AVG (iterations 360 to 380): 9.137433488018855E7
+AVG (iterations 380 to 400): 9.076018270493428E7
+AVG (iterations 400 to 420): 8.986431809431858E7
+AVG (iterations 420 to 440): 9.098826857293822E7
+AVG (iterations 440 to 460): 8.704012525530903E7
+AVG (iterations 460 to 480): 8.727328560907745E7
+AVG (iterations 480 to 500): 8.460986086455423E7
+New best solution in iteration 508: 7.68308014776946E7
+AVG (iterations 500 to 520): 8.364506268697786E7
+AVG (iterations 520 to 540): 8.84493156445333E7
+AVG (iterations 540 to 560): 9.117480408483468E7
+AVG (iterations 560 to 580): 8.744094293216959E7
+AVG (iterations 580 to 600): 8.99046674273315E7
+AVG (iterations 600 to 620): 8.560788044618198E7
+New best solution in iteration 623: 7.66852332346768E7
+AVG (iterations 620 to 640): 9.040329306608316E7
+AVG (iterations 640 to 660): 8.73342918697774E7
+AVG (iterations 660 to 680): 8.515940514400457E7
+AVG (iterations 680 to 700): 8.587704282445563E7
+AVG (iterations 700 to 720): 9.070333810398969E7
+AVG (iterations 720 to 740): 8.745180023846003E7
+AVG (iterations 740 to 760): 8.549751119525424E7
+New best solution in iteration 780: 7.66788152672238E7
+AVG (iterations 760 to 780): 8.504924888778323E7
+New best solution in iteration 788: 7.6528627543293E7
+AVG (iterations 780 to 800): 8.2888731344219E7
+AVG (iterations 800 to 820): 8.086183822606084E7
+New best solution in iteration 826: 7.625598033435516E7
+AVG (iterations 820 to 840): 8.033200368286784E7
+AVG (iterations 840 to 860): 8.486162210533744E7
+AVG (iterations 860 to 880): 8.337534498732151E7
+AVG (iterations 880 to 900): 8.326563918575318E7
+AVG (iterations 900 to 920): 8.124028854603863E7
+AVG (iterations 920 to 940): 8.285111907933989E7
+AVG (iterations 940 to 960): 8.551531219144578E7
+AVG (iterations 960 to 980): 8.526212952745691E7
+Solution from ACO:
+0 (181.8040) --> [3, 14]
+1 --> []
+2 --> []
+3 (77.7078) --> [49]
+4 --> []
+5 (66.6012) --> [19, 26]
+6 (96.5555) --> [47]
+7 (141.3560) --> [38, 41]
+8 (142.6103) --> [34]
+9 (121.9949) --> [44]
+10 (131.5587) --> [45]
+11 --> []
+12 --> []
+13 (92.4554) --> [23]
+14 (156.6540) --> [18, 42]
+15 (148.9989) --> [20, 7]
+16 (197.9815) --> [11]
+17 (119.3596) --> [32]
+18 (106.4422) --> [27]
+19 (79.9673) --> [6, 21]
+20 (154.0292) --> [35]
+21 (36.7212) --> [28]
+22 (109.2235) --> [4]
+23 (78.7153) --> [17]
+24 --> []
+25 (123.4820) --> [48, 9]
+26 (12.8565) --> [22]
+27 (72.5590) --> [36]
+28 (53.1161) --> [37]
+29 (64.6994) --> [39]
+30 (146.3334) --> [24, 10]
+31 (156.3484) --> [5, 13]
+32 --> []
+33 --> []
+34 --> []
+35 (113.3180) --> [31]
+36 (92.5895) --> [30, 12]
+37 --> []
+38 --> []
+39 --> []
+40 --> []
+41 (151.7103) --> [8]
+42 --> []
+43 (117.4312) --> [33, 1]
+44 --> []
+45 (169.6529) --> [16, 25]
+46 (97.0348) --> [43]
+47 (202.7207) --> [29, 40]
+48 (142.6162) --> [15, 2]
+49 (49.0433) --> [46]
+
+Solution energy from ACO: 7.625598033435516E7
+trying to improve with local search...
+final Solution:
+0 (181.8040) --> [3, 14]
+1 --> []
+2 --> []
+3 (77.7078) --> [49]
+4 --> []
+5 (66.6012) --> [19, 26]
+6 (96.5555) --> [47]
+7 (141.3560) --> [38, 41]
+8 (142.6103) --> [34]
+9 (121.9949) --> [44]
+10 (131.5587) --> [45]
+11 --> []
+12 --> []
+13 (92.4554) --> [23]
+14 (156.6540) --> [18, 42]
+15 (148.9989) --> [20, 7]
+16 (197.9815) --> [11]
+17 (119.3596) --> [32]
+18 (106.4422) --> [27]
+19 (79.9673) --> [6, 21]
+20 (154.0292) --> [35]
+21 (36.7212) --> [28]
+22 (109.2235) --> [4]
+23 (78.7153) --> [17]
+24 --> []
+25 (123.4820) --> [48, 9]
+26 (12.8565) --> [22]
+27 (72.5590) --> [36]
+28 (53.1161) --> [37]
+29 (64.6994) --> [39]
+30 (146.3334) --> [24, 10]
+31 (156.3484) --> [5, 13]
+32 --> []
+33 --> []
+34 --> []
+35 (113.3180) --> [31]
+36 (92.5895) --> [30, 12]
+37 --> []
+38 --> []
+39 --> []
+40 --> []
+41 (151.7103) --> [8]
+42 --> []
+43 (117.4312) --> [33, 1]
+44 --> []
+45 (169.6529) --> [16, 25]
+46 (97.0348) --> [43]
+47 (202.7207) --> [29, 40]
+48 (142.6162) --> [15, 2]
+49 (49.0433) --> [46]
+
+final Solution energy: 7.625598033435516E7
+Calculated in 1926ms
+Ants=1000, alpha=0.6, beta=3.0, evaporate factor=0.07
+(for ../../mebp/mebp-06.dat)

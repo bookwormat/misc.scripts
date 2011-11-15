@@ -1,0 +1,110 @@
+New best solution in iteration 0: 3.796640855029125E8
+New best solution in iteration 12: 2.4658714730420122E8
+AVG (iterations 0 to 20): 6.305045073683587E8
+AVG (iterations 20 to 40): 6.902638914519229E8
+New best solution in iteration 53: 1.4665733869234198E8
+AVG (iterations 40 to 60): 7.946182562081836E8
+AVG (iterations 60 to 80): 5.744519359345464E8
+AVG (iterations 80 to 100): 6.511382457451923E8
+AVG (iterations 100 to 120): 7.29176648584728E8
+New best solution in iteration 135: 1.3276587037832066E8
+AVG (iterations 120 to 140): 5.920541350558226E8
+New best solution in iteration 150: 9.981679336274043E7
+New best solution in iteration 151: 9.926758813253433E7
+New best solution in iteration 159: 8.836027573450518E7
+AVG (iterations 140 to 160): 2.6744648817896524E8
+New best solution in iteration 169: 8.573010607039884E7
+New best solution in iteration 171: 7.80155714541687E7
+New best solution in iteration 178: 7.499718547419867E7
+AVG (iterations 160 to 180): 1.1141670592790529E8
+New best solution in iteration 188: 7.267760141214979E7
+AVG (iterations 180 to 200): 9.457735338515942E7
+AVG (iterations 200 to 220): 8.45914416741227E7
+AVG (iterations 220 to 240): 8.334566231150422E7
+AVG (iterations 240 to 260): 8.129340950448744E7
+AVG (iterations 260 to 280): 7.755437287139145E7
+AVG (iterations 280 to 300): 7.66772202339162E7
+AVG (iterations 300 to 320): 7.60703870750024E7
+AVG (iterations 320 to 340): 7.530094675177634E7
+AVG (iterations 340 to 360): 7.847451680275807E7
+AVG (iterations 360 to 380): 7.638556571427621E7
+AVG (iterations 380 to 400): 7.676521936707069E7
+AVG (iterations 400 to 420): 7.796564726724687E7
+AVG (iterations 420 to 440): 8.09555178508066E7
+AVG (iterations 440 to 460): 7.891787656432775E7
+AVG (iterations 460 to 480): 7.80532212054073E7
+AVG (iterations 480 to 500): 7.69093810542496E7
+AVG (iterations 500 to 520): 7.844105210053198E7
+AVG (iterations 520 to 540): 7.676357349347779E7
+AVG (iterations 540 to 560): 7.508002180840656E7
+AVG (iterations 560 to 580): 7.50662297787796E7
+AVG (iterations 580 to 600): 7.50662297787796E7
+AVG (iterations 600 to 620): 7.517199672473499E7
+AVG (iterations 620 to 640): 7.501097750382563E7
+AVG (iterations 640 to 660): 7.506614562233345E7
+AVG (iterations 660 to 680): 7.50202002423923E7
+AVG (iterations 680 to 700): 7.508924454697324E7
+AVG (iterations 700 to 720): 7.525491721538904E7
+AVG (iterations 720 to 740): 7.50570070402129E7
+AVG (iterations 740 to 760): 7.505700704021291E7
+AVG (iterations 760 to 780): 7.519509564937481E7
+AVG (iterations 780 to 800): 7.520880352255562E7
+AVG (iterations 800 to 820): 7.499718547419867E7
+AVG (iterations 820 to 840): 7.520880352255562E7
+AVG (iterations 840 to 860): 7.510303657660021E7
+AVG (iterations 860 to 880): 7.50983831290938E7
+AVG (iterations 880 to 900): 7.504321501058595E7
+AVG (iterations 900 to 920): 7.501097750382562E7
+AVG (iterations 920 to 940): 7.499718547419867E7
+AVG (iterations 940 to 960): 7.499718547419867E7
+AVG (iterations 960 to 980): 7.499718547419867E7
+Solution from ACO:
+0 (161.3938) --> [6, 11]
+1 (231.5359) --> [4]
+2 (112.1601) --> [15, 17]
+3 (204.4509) --> [10]
+4 --> []
+5 (161.0741) --> [12]
+6 (77.2109) --> [7]
+7 (56.9242) --> [3]
+8 (227.7939) --> [1, 5]
+9 --> []
+10 (46.4450) --> [18]
+11 (79.0778) --> [8]
+12 (224.6325) --> [16, 13]
+13 (176.8010) --> [9]
+14 (219.1891) --> [19, 2]
+15 --> []
+16 (113.7895) --> [14]
+17 --> []
+18 --> []
+19 --> []
+
+Solution energy from ACO: 7.267760141214979E7
+trying to improve with local search...
+final Solution:
+0 (161.3938) --> [6, 11]
+1 (231.5359) --> [4]
+2 (112.1601) --> [15, 17]
+3 (204.4509) --> [10]
+4 --> []
+5 (161.0741) --> [12]
+6 (77.2109) --> [7]
+7 (56.9242) --> [3]
+8 (227.7939) --> [1, 5]
+9 --> []
+10 (46.4450) --> [18]
+11 (79.0778) --> [8]
+12 (224.6325) --> [16, 13]
+13 (176.8010) --> [9]
+14 (219.1891) --> [19, 2]
+15 --> []
+16 (113.7895) --> [14]
+17 --> []
+18 --> []
+19 --> []
+
+final Solution energy: 7.267760141214979E7
+Calculated in 920ms
+Ants=1000, alpha=0.6, beta=3.0, evaporate factor=0.07
+(for ../../mebp/mebp-03.dat)
